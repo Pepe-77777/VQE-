@@ -7,7 +7,7 @@ root.title("VQE+ - Virtual Photo Enchancer")
 root.resizable(False, False)
 root.geometry("700x350")
 
-# COPYRIGHT PEDRO SZABO SILVA 2022.
+# COPYRIGHT PEDRO SZABO SILVA 2023.
 
 # Use AI2 = Use to make the image 2x better
 # Use AI4 = Use to make the image 4x better
@@ -25,7 +25,7 @@ X = 2
 
 title = Label(root, text="VQE+", font=('Helvetica Bold', 53))
 subTitle = Label(root, text="Best Virtual Quality Enchancer Software.")
-copyright = Label(root, text="Copyright Pedro Szabo Silva 2022.")
+copyright = Label(root, text="Copyright Pedro Szabo Silva 2023.")
 title.pack(padx=50, pady=5)
 subTitle.pack(padx=50, pady=15)
 copyright.pack(padx=50, pady=5)
